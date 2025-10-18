@@ -1,17 +1,5 @@
 <!-- This is the main app -->
-<script setup lang="ts">
-</script>
-
-<style>
-
-
-
-
-</style>
-
+<script setup lang="ts"></script>
 <template>
-  <main>
-
-  </main>
+  <main></main>
 </template>
-
